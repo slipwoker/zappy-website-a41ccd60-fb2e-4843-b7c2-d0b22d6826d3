@@ -1,0 +1,61 @@
+# הערימה — Generative Engine Optimization Map
+
+> A משחקים דיגיטליים business.
+
+---
+
+## Pages
+
+### בית
+https://-a41ccd60.zappy5.app
+גלה את משחק הערימה - משחק קומבינטורי לשני שחקנים עם אסטרטגיה מרתקת ומטבעות. שחק עכשיו ותהנה מחוויית משחק ייחודית!
+
+### חוקי המשחק
+https://-a41ccd60.zappy5.app/rules
+למד את משחק הערימה חוקים המלאים - מדריך מפורט למשחק קומבינטורי לשני שחקנים. הבן את מכניקת המטבעות והאסטרטגיה.
+
+### אסטרטגיה
+https://-a41ccd60.zappy5.app/strategy
+מדריך אסטרטגיה מקיף למשחק קומבינטורי לשני שחקנים - הערימה. למד טכניקות מתקדמות ואסטרטגיות מנצחות למשחק אסטרטגיה עם מטבעות.
+
+### אודות
+https://-a41ccd60.zappy5.app/about
+הכירו את הערימה - משחק קומבינטורי לשני שחקנים דיגיטלי חדשני. למדו על הפיתוח, החזון והמטרה מאחורי משחק אסטרטגיה עם מטבעות.
+
+### שחק עכשיו
+https://-a41ccd60.zappy5.app/contact
+התחל לשחק בהערימה עכשיו! משחק קומבינטורי לשני שחקנים מרתק. צור קשר לשאלות או התחל משחק חדש מיד.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a41ccd60.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a41ccd60.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a41ccd60.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הערימה
+הערימה is a business in the משחקים דיגיטליים industry.
+
+## Target Audience
+שני שחקנים
+
+## Industry
+משחקים דיגיטליים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-a41ccd60.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-a41ccd60.zappy5.app/robots.txt
