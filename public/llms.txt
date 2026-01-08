@@ -1,51 +1,61 @@
-# Business — Generative Engine Optimization Map
+# הערימה — Generative Engine Optimization Map
+
+> A משחקים דיגיטליים business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://haarima.zappy5.app
 גלה את משחק הערימה - משחק קומבינטורי לשני שחקנים עם אסטרטגיה מרתקת ומטבעות. שחק עכשיו ותהנה מחוויית משחק ייחודית!
 
 ### חוקי המשחק
-https://example.com/rules
+https://haarima.zappy5.app/rules
 למד את משחק הערימה חוקים המלאים - מדריך מפורט למשחק קומבינטורי לשני שחקנים. הבן את מכניקת המטבעות והאסטרטגיה.
 
 ### אסטרטגיה
-https://example.com/strategy
+https://haarima.zappy5.app/strategy
 מדריך אסטרטגיה מקיף למשחק קומבינטורי לשני שחקנים - הערימה. למד טכניקות מתקדמות ואסטרטגיות מנצחות למשחק אסטרטגיה עם מטבעות.
 
 ### אודות
-https://example.com/about
+https://haarima.zappy5.app/about
 הכירו את הערימה - משחק קומבינטורי לשני שחקנים דיגיטלי חדשני. למדו על הפיתוח, החזון והמטרה מאחורי משחק אסטרטגיה עם מטבעות.
 
 ### שחק עכשיו
-https://example.com/contact
+https://haarima.zappy5.app/contact
 התחל לשחק בהערימה עכשיו! משחק קומבינטורי לשני שחקנים מרתק. צור קשר לשאלות או התחל משחק חדש מיד.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://haarima.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://haarima.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://haarima.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About הערימה
+הערימה is a business in the משחקים דיגיטליים industry.
+
+## Target Audience
+שני שחקנים
+
+## Industry
+משחקים דיגיטליים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://haarima.zappy5.app/sitemap.xml
+- **Robots.txt**: https://haarima.zappy5.app/robots.txt
